@@ -1,6 +1,6 @@
 print("Hello World")
-q = 0
+q = 39
 for i in range(5):
-    q +=1
-    print(q)
+    q +=1 - 2
+    print(q ," ")
 
